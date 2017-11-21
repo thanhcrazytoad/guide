@@ -1,6 +1,7 @@
-# Guide à destination de la communauté
+﻿# Guide à destination de la communauté
 ## Comment contribuer ? 
 En création…
+En allant coasser dans la mare test
 
 ## Qui peut contribuer ?
 En création… 
